@@ -1,5 +1,7 @@
 # Timeline — May 2026 → December 2026
 
+> For the strategic rationale (what UUA stages each meeting maps to and which failure modes we're mitigating), see [`process_strategy.md`](process_strategy.md).
+
 A working schedule. Dates and dependencies should be updated as plans firm up. **Anchor:** the input service is currently slated for Sunday **2026-10-18**; the congregational vote is targeted for **late 2026**.
 
 ## May 2026 — Process design
@@ -14,10 +16,13 @@ A working schedule. Dates and dependencies should be updated as plans firm up. *
 
 **COM meeting: ~early June** (date TBC)
 
-- Finalize service plan; book minister; confirm date with Board.
-- Name the drafting team (2–3 "congregational poets").
+- Review concrete service plan (Alex builds in May after the team's input).
+- Select 2–3 input questions (using SPARC q5 broader data if available).
+- Name the drafting team (2–3 "congregational poets") or open the call.
 - Draft an online/email alternative for people who can't attend Oct 18.
 - Begin publicizing Oct 18 via newsletter / email / social.
+- **Identify the ~10–15 informal influencers** (former board members, deeply respected long-tenured members, committee chairs we haven't yet engaged) and assign engagement touchpoints to COM members. *(UUA failure-mode mitigation — see process_strategy.md.)*
+- Confirm youth-track plan with the DRE (4–6 weeks of prep is typical).
 
 ## July–August 2026 — Summer (COM does not meet)
 
@@ -65,11 +70,14 @@ A working schedule. Dates and dependencies should be updated as plans firm up. *
 
 - Review candidate statements and feedback received.
 - Decide whether one more revision round is needed.
+- **Begin drafting the post-vote follow-through plan** — liturgical use, governance integration, mission-objectives sketch, ~2031 revisit calendar. *(UUA "rolled-up newsprint" failure-mode mitigation.)*
 
 ## December 2026 — Adoption
 
 - Final draft presented for congregational endorsement.
+- **Finalize the follow-through plan** before the vote — so the new vision arrives at the vote with its life-after-adoption already sketched.
 - Vote held at congregational meeting (or specially called vote depending on bylaws), ideally bundled with the SPARC vote.
+- Celebrate the milestone (per UUA p.29 — *"Celebrate the milestones of the process"*).
 
 ## Risk notes
 

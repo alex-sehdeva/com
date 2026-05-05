@@ -46,6 +46,18 @@ A common observation: these are competent and effective, but many run together a
 
 (Summary tag: "We aspire to be a Caring, Learning, and Socially Engaged spiritual community.")
 
+## Source unknown
+
+> Together in beloved community, we will build a world without borders where all are valued and supported as they navigate their individual religious journeys.
+
+## First Unitarian Universalist Church of San Diego, San Diego, California
+
+> We envision members and friends of First Church as pilgrims traveling on life’s journey together—creating a shared ministry through which we can grow our souls in ways truthful to ourselves, caring of others, and sustaining the planet.
+
+## First Parish in Needham (Unitarian Universalist), Needham, Massachusetts
+
+> First Parish in Needham strives to be a vibrant, open, inclusive congregation in which all are free to explore and grow spiritually and intellectually in a supportive and socially responsible community. Through: inspirational worship services including music and celebrations; religious education opportunities for all ages; social action outreach; opportunities for reflection; intergenerational activities; social events.
+
 ## Outlier (non-UU, included for contrast)
 
 **The Rock, San Diego, CA** (evangelical megachurch):

@@ -1,3 +1,8 @@
+- how to do "absentee ballot" of participation
+- what about teachers
+- how to pre communicate the event
+
+
 # COM Meeting Agenda — Tuesday 2026-05-05, 7:30 PM (60 min)
 
 **Zoom:** https://bit.ly/CUUC-Zoom-7899 · 289 850 7899 · Passcode 468468

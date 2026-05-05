@@ -17,7 +17,8 @@ Working files for the Committee on Ministry's effort to update CUUC's vision sta
 ## Current status
 
 - **Process skeleton agreed** at the 2026-04-07 COM meeting: SPARC q5 input → Oct 18 input service → small drafting group → ≥1 feedback round → vote by year end.
-- **Next meeting: Tuesday 2026-05-05.** Goal: decide the shape of the Oct 18 service and how the drafting committee is composed. See [`03_meetings/2026-05-05/agenda.md`](03_meetings/2026-05-05/agenda.md).
+- **Strategic spine** mapping UUA's recommended process to our meeting allocations: [`01_process/process_strategy.md`](01_process/process_strategy.md).
+- **Next meeting: Tuesday 2026-05-05.** Goal: decide the shape of the Oct 18 service, how the drafting committee is composed, and whether to add parallel youth programming. See [`03_meetings/2026-05-05/agenda.md`](03_meetings/2026-05-05/agenda.md).
 
 ## Key dates
 

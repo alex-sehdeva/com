@@ -29,7 +29,8 @@ The canonical reading list COM has compiled for the vision statement project. An
 
 ## Local synthesis docs (in this folder)
 
-- [`uua_synthesis_for_2026-05-05.md`](uua_synthesis_for_2026-05-05.md) — points from the seven UUA pages below, condensed and organized around the 5/5 meeting's three decisions (service shape, drafting committee, youth programming). Read this *instead of* the full pages if you only have 10 minutes.
+- [`uua_booklet_synthesis.md`](uua_booklet_synthesis.md) — condensation of the full UUA *Vision, Mission, and Covenant* booklet (98 pages → ~5 pages), focused on what's relevant to a vision-only project under tight time. The most operationally useful single doc.
+- [`uua_synthesis_for_2026-05-05.md`](uua_synthesis_for_2026-05-05.md) — points from the seven UUA LeaderLab pages below, condensed and organized around the 5/5 meeting's three decisions (service shape, drafting committee, youth programming). Read this *instead of* the full pages if you only have 10 minutes.
 
 ## Tricia's curated background research
 

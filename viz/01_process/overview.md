@@ -1,5 +1,8 @@
 # CUUC Vision Statement Project — Overview
 
+> For the strategic spine — how UUA's recommended process maps onto our meeting allocations and our specific failure-mode mitigations — see [`process_strategy.md`](process_strategy.md).
+
+
 ## What we're doing
 
 The Committee on Ministry (COM) is leading a democratic process to **update CUUC's vision statement** and bring a new statement to a congregational vote in late 2026.
@@ -37,10 +40,14 @@ The current statement reads as descriptive of who CUUC is *now*. A vision statem
 2. How do we compose the drafting committee? (Decision target: 2026-05-05 meeting.)
 3. What's the right supplementary-input channel for people who can't attend Oct 18?
 4. When does SPARC's broader question 5 data become available, and how do we integrate it?
+5. **Who are the ~10–15 informal influencers we should engage before October?** (Decision target: June meeting. Per UUA booklet, skipping this stage causes late resistance.)
+6. **What's the post-vote follow-through plan?** (Sketch in November, finalize in December — *before* the vote, not after.)
+7. Parallel youth track on Oct 18? (Decision target: 2026-05-05.)
 
 ## Deliverables
 
 - **Per meeting:** agenda, summary, decisions log entry.
-- **Pre-Oct 18:** finalized service plan, drafting team named, SPARC inputs in hand.
+- **Pre-Oct 18:** finalized service plan, drafting team named, SPARC inputs in hand, informal-influencer engagement done.
 - **Post-Oct 18:** thematic summary brief; candidate vision statement(s); feedback round results; final statement.
-- **By end of 2026:** approved CUUC vision statement.
+- **Pre-vote:** follow-through plan (liturgical use, governance integration, budget alignment, mission-objectives sketch, ~2031 revisit calendar).
+- **By end of 2026:** approved CUUC vision statement *plus* a written plan for keeping it alive.
