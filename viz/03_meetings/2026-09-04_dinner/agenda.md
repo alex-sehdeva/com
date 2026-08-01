@@ -1,98 +1,94 @@
 # COM Kickoff Dinner — Friday 2026-09-04, Alex's home
 
-**Purpose:** re-gather the team after the summer dark, close the decision backlog left from spring, and leave with every Oct 18 role and pre-service task owned by a named person. This is the year's kickoff — the congregational year hasn't formally started, so this dinner *is* the re-engagement.
+**Purpose:** design the Oct 18 input service well enough to hand Rev. Danielle a concrete proposal she can turn into worship. One evening, one product: **a piloted exercise + a draft one-page proposal to the minister.**
 
-**Format:** social dinner first (~60–75 min, no agenda, no shop talk — the relationship-building is real work too), then a **90-minute working session**. Announce the split up front in the invitation so nobody is surprised when the newsprint comes out.
+**Format:** social dinner first (~60–75 min, no shop talk), then a **~100-minute working session**. Announce the split in the invitation.
 
-**Known unknowns going in:**
+**Posture:** the minister owns the service. COM's product is not an order of service — it is **the prompts, the harvest mechanics, and the data plan**, wrapped in a proposal with an explicit *load-bearing vs. flexible* list. Liturgy, hymns, welcome, closing reflection: hers.
 
-- Rev. Danielle (minister) and the DLRE may or may not attend. **The agenda below is designed so nothing blocks on their presence** — any item that needs them produces a *provisional* decision plus a named liaison who confirms within one week.
-- No co-chair has been nominated. Item 6 addresses this directly.
-- The repo has no record of decisions after 2026-04-07 (no May 5 summary, no June meeting). Item 2 reconstructs the actual state before we build on it.
+**Success criterion (design backwards from this):** on ~Oct 25 the drafting team opens a packet containing 80–150 individual cards in congregants' own words, a themed harvest with minority/dissenting views preserved, youth contributions, and absentee submissions — concrete enough to draft from, broad enough to be legitimate. Every decision tonight traces back to that packet.
 
 ---
 
 ## Pre-dinner prep (Alex, week of Aug 31)
 
-- [ ] Email invitation with the dinner/working split, the 90-min agenda, and a 3-doc pre-read: `01_process/timeline.md`, `02_reference/candidate_visioning_questions.md`, `02_reference/sparc_q5_com_input.md`.
-- [ ] Personal note to Rev. Danielle and the DLRE: warm invite + "if you can't make it, here are the three things I'll follow up with you on" (service partnership, youth track, drafting-team blessing).
-- [ ] Ping Bill Roberts: where does the broader SPARC q5 data stand? Bring the answer (or the absence of one) to dinner.
-- [ ] Print: candidate questions bank (one per person), Oct 18 at-a-glance service grid from `04_workshop_design/dreaming_forward_together.md`, blank role-signup sheet, newsprint + markers for the influencer brainstorm.
-- [ ] Reconstruct your own best memory of what May 5 actually decided, so item 2 is a confirmation exercise, not archaeology.
+- [ ] Invitation with the dinner/working split and this agenda; pre-read: `pilot_script.md` (this folder), `02_reference/candidate_visioning_questions.md`.
+- [ ] Personal note to Rev. Danielle and the DLRE: warm invite + "if you can't make it, we'll bring you a proposal within ten days."
+- [ ] Print for the table: `pilot_script.md` (one per person), blank index cards, pens, one newsprint pad + markers, a kitchen timer.
+- [ ] Ping Bill Roberts on SPARC q5 data status; bring the answer either way.
 
 ---
 
-## Working session — 90 minutes
+## Working session — ~100 minutes
 
-### 1. Welcome and the year in one arc (5 min)
+### 1. Frame backwards (10 min)
 
-- Thank Tricia for the handoff and the prep work that got us here.
-- The arc, one breath: **Oct 18 input service → one-week harvest → drafting team writes (early Nov) → congregational feedback (mid-Nov) → revise → vote by year end, ideally bundled with SPARC.**
-- Tonight's job: close every open decision and put a name on every Oct 18 task. We leave with no orphaned work.
+- Put the **drafting-team packet** on newsprint first: cards, themed harvest, dissents, youth material, absentee input. Tonight designs the machine that produces it.
+- Name what tonight is *not*: liturgy, hymns, vision wording, drafter selection. (Co-chair and influencer items only if we finish early — see parking lot.)
 
-### 2. Reconstruct the record (10 min)
+### 2. Pick the input mix (15 min)
 
-Go around: what did we actually decide on May 5 and since? Capture on newsprint:
+What raw material serves drafters best? Choose 2–3 prompt types and rough wording — just enough to pilot:
 
-- Service shape (worship ↔ workshop spectrum) — decided or open?
-- Drafting-team selection method — decided or open?
-- Youth track — decided or open?
-- SPARC q5 broader data — in hand, promised, or stuck? (Alex reports from Bill.)
+- **Concrete-future** (produces the most draftable language): *"It's 2031 and a neighbor is telling a friend about CUUC — what do they say?"*
+- **Tension / negative space** (gives the vision its spine): *"What should CUUC not become?"*
+- **Aspiration / story** (warmth and breadth): a dream prompt, or *"tell about a CUUC moment that felt like the future you hope for."*
 
-*Whatever is genuinely still open rolls into item 3. Alex writes the confirmed record into `01_process/decisions_log.md` this weekend.*
+Test each candidate against the adaptive bar: about *who CUUC becomes*, not *what CUUC does next year*.
 
-### 3. Decision block (35 min)
+### 3. Pilot the exercise on ourselves (30 min)
 
-Timeboxed hard — these are the June decisions we're six weeks late on.
+Six people is exactly one small-group cluster — so we run the leading candidate end-to-end, timed, using **`pilot_script.md`**. Timing: frame 2 / prompt + silence 3 / write cards 5 / share 6 / harvest 5 / debrief 9.
 
-**(a) Drafting team — 12 min.** Land the selection method (COM appoints / minister recommends / open call / hybrid) *and* either name 2–3 candidate "congregational poets" tonight or open the call this week. Criteria are already agreed in the May 5 pre-read: skilled with language, steeped in CUUC's existing statements, trusted broadly, includes less-heard voices, available Oct 18 → end of Nov. **If the minister is absent:** pick names provisionally; Alex confirms with Rev. Danielle within a week. Target: team announced at the mid-September COM meeting.
+Debrief questions (on the script sheet):
 
-**(b) Input questions — 12 min.** Select the 2–3 prompts that anchor Oct 18 from `02_reference/candidate_visioning_questions.md`. Test each against the adaptive-not-technical bar: is it about *who CUUC becomes*, not *what CUUC does next year?* If broader SPARC data hasn't landed, choose anyway and note which question we'd swap if the data surprises us — we cannot hold the service hostage to SPARC's timeline.
+1. Did the prompt produce concrete language or mush?
+2. Was the silence long enough for the slower processors among us?
+3. Did the harvest add signal beyond the cards, or just repeat them?
+4. Hand our six cards to an imaginary poet — could they draft from these?
+5. How much of the guided-imagery strawman survives? (Caution: 15 min of closed-eye visualization is long, some people can't visualize, and it yields diffuse data. A shortened version as warm-up before concrete prompts may beat it as centerpiece. Let the pilot decide.)
 
-**(c) Supplementary input channel — 6 min.** Pick the mechanism (online form + paper cards at the office is the low-effort default), the window (open when publicity starts, close ~Oct 25 so drafters get everything), and an owner.
+Fix what broke, or swap in the backup prompt and re-run the short loop if time allows.
 
-**(d) Youth track — 5 min.** Provisional call: parallel track vs. integrated kids-in-sanctuary. Name the COM ↔ DLRE liaison tonight. **This is the most time-critical DLRE dependency** — the strawman says 4–6 weeks of prep is typical, and Oct 18 is 6.5 weeks out. Liaison contacts the DLRE within 48 hours regardless of whether they attended.
+### 4. Data plan (10 min)
 
-### 4. Oct 18 roles and rehearsal (15 min)
+Cards are the primary record; the newsprint harvest is theater plus redundancy — keep the whole-group report-out short on Oct 18, since it favors confident voices. Decide:
 
-Walk the at-a-glance service grid once, then pass the signup sheet:
+- Collection + same-day photographing of every card — who.
+- Transcription session: **schedule it tonight** (target: within 3 days of Oct 18, 3–4 people).
+- Absentee channel (online form + paper cards at office is the default), open at publicity launch, close ~Oct 25.
+- Youth material path into the same packet — DLRE liaison named tonight, contact within 48 hours (the 4–6 week prep window is already tight).
 
-- Primary facilitator (guided imagery) — the big one; needs two aloud rehearsals per the plan.
-- Scribe (newsprint: Common / Unique themes).
-- Card collectors, timekeeper, small-group floaters.
-- Publicity owner (newsletter / email / social, weekly from mid-September).
-- Materials owner (covenant half-sheets, index cards, pens, dots, crayons, baskets).
-- Childcare / accessibility / online-alternative confirmer.
+### 5. Draft the proposal to the minister (20 min)
 
-Schedule the two guided-imagery rehearsals now (suggest: at the mid-Sept and early-Oct COM meetings). **Minister-dependent items** (welcome, closing reflection, hymns) go on Alex's follow-up list, not on the table tonight.
+Outline the one-pager on newsprint together:
 
-### 5. Informal influencers (10 min)
+- **Purpose** — one paragraph, the packet as the goal.
+- **The participatory block** — ~35–40 min plug-in to her service: frame → prompt + silence → individual cards → small-group share → short harvest → collection.
+- **The 2–3 prompts** as piloted tonight.
+- **What COM staffs** — facilitator, scribes, card collectors, materials, timekeeper.
+- **Asks of her** — frame the service; be present through the exercise; all liturgy, music, and worship choices hers.
+- **Load-bearing** (we ask her to preserve): silence before sharing; an individual card from every participant; the tension prompt; whole-congregation participation including youth.
+- **Flexible** (entirely hers): order, hymns, who speaks, how worshipful vs. workshop it feels.
 
-The one failure-mode mitigation we cannot skip (process_strategy.md §2: board sign-off ≠ congregation-wide buy-in). Newsprint brainstorm: **10–15 names** — former board members, long-tenured respected members, committee chairs not yet engaged. Assign each name to a COM member for a personal touchpoint **before the publicity push starts mid-September** — a real conversation ("here's what's coming Oct 18, we'd love your voice in it"), not a form email.
+Name **who brings it to her and by when** — target a working conversation (co-design, not sign-off) by **Sep 14**, so her feedback lands before the mid-September COM meeting.
 
-### 6. Co-chair (8 min)
+### 6. Names, dates, capture (15 min)
 
-Name the gap plainly: the committee needs a co-chair, and Oct 18 → December is exactly the stretch where a chair working alone becomes the bottleneck. Ask for interest in the room first. If someone steps up, great — nominate at the mid-September meeting. If not, agree on a shortlist of 2–3 people and who asks each, with an answer due by mid-September. The natural pitch: co-chair owns the post-Oct-18 harvest sprint while chair manages drafters and feedback logistics.
+- Oct 18 facilitator (needs rehearsal time at both fall meetings), scribe, collectors, materials owner, DLRE liaison.
+- Confirm the **mid-September COM meeting** (ratify final design with minister's feedback, rehearsal #1) and **early-October meeting** (logistics, rehearsal #2).
+- Read tonight's decisions back from the newsprint, out loud. Alex commits to `decisions_log.md` and sends the summary email within 48 hours.
 
-### 7. Calendar, capture, close (7 min)
+### Parking lot (only if we finish early)
 
-- Confirm the **mid-September COM meeting date** (service-plan walkthrough, rehearsal #1, drafting team announced, publicity launch) and the **early-October date** (final logistics, rehearsal #2, role-holder briefing).
-- Read back tonight's decisions from the newsprint — 60 seconds, out loud, so the record is shared.
-- Alex commits everything to `decisions_log.md` and sends the summary email within 48 hours (the 2026-04-12 summary email is the template).
+Co-chair nomination; influencer touchpoint list; drafting-team selection method. Otherwise these go to the mid-September agenda — a dinner monomaniacally about the service beats one that does six things adequately.
 
 ---
 
-## Guardrails for the evening
+## The through-line after the dinner
 
-- **Do not wordsmith** questions or vision language beyond picking from the bank. Drafting is the poets' job in November.
-- **Do not relitigate Oct 18** as the anchor date, or the process skeleton. Both were decided in April.
-- **Nothing leaves the table unowned.** A decision without a name and a date is a wish.
-- If discussion runs hot on one item, park it visibly ("parking lot" newsprint) and keep the timebox — the mid-September meeting exists to catch overflow.
+Piloted exercise + draft proposal (Sep 4) → minister co-design meeting (~Sep 14) → mid-Sept COM meeting ratifies + rehearses → early-Oct meeting: logistics + rehearsal #2 → **Oct 18 service** → transcription session (already scheduled tonight) → packet to drafters by ~Oct 25.
 
 ## If the minister and/or DLRE don't come
 
-All decisions above stand as *provisional where they touch worship or youth programming*. Alex's follow-up list, due within one week of the dinner:
-
-1. Rev. Danielle: service partnership (welcome, closing reflection, hymn choices), blessing on the drafting-team names, and her preferred spot on the worship ↔ workshop spectrum.
-2. DLRE (via the named liaison): youth-track confirmation and prep timeline — flag that we're already inside the 4–6 week window.
-3. Anything either of them pushes back on comes to the mid-September meeting as a discussion item, not a crisis.
+Nothing tonight blocks on them — the whole output *is* a proposal to the minister, and the DLRE liaison makes contact within 48 hours regardless. If either raises concerns, that's the Sep 14 conversation working as designed, not a crisis.
