@@ -1,13 +1,12 @@
 # Pilot Script — Oct 18 Exercise Test Run
 
-*Print one per person for the Sep 4 dinner. We are running the congregational exercise on ourselves, timed, exactly as a small group would experience it on Oct 18. Total: 30 minutes including debrief. One person facilitates and keeps time; everyone (facilitator included) writes a card.*
+*Print one per person for the Aug 7 dinner. We are running the congregational exercise on ourselves, timed, exactly as a small group would experience it on Oct 18. Total: 30 minutes including debrief. One person facilitates and keeps time; everyone (facilitator included) writes post-it notes.*
 
-**Materials on the table:** one index card + pen per person, newsprint sheet headed "Themes / Dissents," kitchen timer.
->> pile of post it note pad
+**Materials on the table:** post it notes + pen per person, newsprint sheet headed "Themes / Dissents," kitchen timer.
 
 ---
 
-## The run (21 min)
+## The run (35 min)
 
 ### Introduce a Vision Statement - 7 min
 
@@ -23,21 +22,20 @@ Facilitator reads the chosen prompt **twice, slowly**, then holds genuine silenc
 
 **Prompt A — concrete future:**
 
-> "It's 2031. A neighbor who has never set foot in CUUC is telling a friend about this congregation. What do they say?" 
-> "How would you describe CUUC"
+> "It's 2031. How would you describe this congregation to a friend?" 
 
 Everyone writes on their post-it notes: words, phrases, sentences, a drawing — uncensored. Prompt stays visible/spoken once more at the halfway mark.
 
 ### Share individual items with the small group — 5 min (optional, limit it to 3)
 
-Set up sticky papers on the windows
+Set up sticky papers on the windows.
 Set up stand up easels.
 
 Around the small group, ~1 minute each: read or describe your post it notes. Posting it on the wall.  
+Try to gather them in themes as you show them.
 No responses, no discussion — just listening. One person jots recurring words on scratch paper as they listen.
 
 ### Group discusses the top 3 themes to put forward - 5 min
-### Harvest — 5 min
 
 Each group pick the three ideas or themes that resonated the most.
 Write on post it, share one theme with the full group.
@@ -58,11 +56,11 @@ Let them vote on what they liked.
 
 Go through these in order; someone captures answers on the back of the newsprint:
 
-1. **Draftability.** Spread the six cards on the table. If you were a poet who had never attended tonight, could you write from these? Which card is the most usable, and *what made it usable?*
+1. **Draftability.** Spread the six post it notes on the table. If you were a poet who had never attended tonight, could you write from these? Which card is the most usable, and *what made it usable?*
 2. **Prompt quality.** Did the prompt produce concrete language or mush? Does the wording need one change?
 3. **Silence.** Long enough? Too long? (Err toward longer for a room of 100.)
-4. **Harvest value.** Did the newsprint add signal beyond the cards, or just repeat them? (If it repeats — shorten the whole-group harvest on Oct 18 and trust the cards.)
+4. **Harvest value.** Did the newsprint add signal beyond the post-it notes, or just repeat them? (If it repeats — shorten the whole-group harvest on Oct 18 and trust the post-it notes.)
 5. **Timing.** Where did the timer feel wrong? Scale honestly: 6 people at a dinner table ≠ 100+ in a sanctuary — sharing groups of 3–4 need the same 6 minutes, but transitions and card collection need real time.
 6. **The strawman question.** Given how this felt: does the 15-minute guided imagery from `04_workshop_design/dreaming_forward_together.md` survive as the centerpiece, shrink to a 3–4 minute warm-up before this prompt, or get cut?
 
-**Output of the pilot:** the chosen prompt(s) with final-for-now wording, the timing block for the proposal to Rev. Danielle, and tonight's six cards — keep them; they're the sample to show her what the exercise produces.
+**Output of the pilot:** the chosen prompt(s) with final-for-now wording, the timing block for the proposal to Rev. Danielle, and tonight's six post-it notes — keep them; they're the sample to show her what the exercise produces.
