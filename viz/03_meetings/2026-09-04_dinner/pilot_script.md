@@ -3,46 +3,54 @@
 *Print one per person for the Sep 4 dinner. We are running the congregational exercise on ourselves, timed, exactly as a small group would experience it on Oct 18. Total: 30 minutes including debrief. One person facilitates and keeps time; everyone (facilitator included) writes a card.*
 
 **Materials on the table:** one index card + pen per person, newsprint sheet headed "Themes / Dissents," kitchen timer.
+>> pile of post it note pad
 
 ---
 
 ## The run (21 min)
 
-### Frame — 2 min
+### Introduce a Vision Statement - 7 min
+
+### Frame — 0 min
 
 Facilitator reads, roughly:
 
 > "On October 18 we'll ask the whole congregation to dream forward with us. A vision statement is a picture of who CUUC wants to *become* in five to ten years — not who we are today. Today isn't wordsmithing; it's gathering raw material. A small drafting team shapes the language afterward. There are no wrong answers."
 
-### Prompt + silence — 3 min
+### Prompt + write post it notes — 3 min
 
 Facilitator reads the chosen prompt **twice, slowly**, then holds genuine silence. No music, no talking. (On Oct 18 this silence is load-bearing — it's what gives quieter people a chance before talkers fill the room.)
 
 **Prompt A — concrete future:**
 
-> "It's 2031. A neighbor who has never set foot in CUUC is telling a friend about this congregation. What do they say?"
+> "It's 2031. A neighbor who has never set foot in CUUC is telling a friend about this congregation. What do they say?" 
+> "How would you describe CUUC"
 
-**Prompt B — tension / negative space:**
+Everyone writes on their post-it notes: words, phrases, sentences, a drawing — uncensored. Prompt stays visible/spoken once more at the halfway mark.
 
-> "What should CUUC *not* become? What would it look like if we drifted somewhere none of us wants to go?"
+### Share individual items with the small group — 5 min (optional, limit it to 3)
 
-**Prompt C — backup, story-based:**
+Set up sticky papers on the windows
+Set up stand up easels.
 
-> "Remember a moment at CUUC that felt like the future you hope for. What was happening? What made it feel that way?"
+Around the small group, ~1 minute each: read or describe your post it notes. Posting it on the wall.  
+No responses, no discussion — just listening. One person jots recurring words on scratch paper as they listen.
 
-*(Pilot A first. If time allows after the debrief, re-run the short loop with B.)*
-
-### Write cards — 5 min
-
-Everyone writes on their card: words, phrases, sentences, a drawing — uncensored. Prompt stays visible/spoken once more at the halfway mark.
-
-### Share — 6 min
-
-Around the table, ~1 minute each: read or describe your card. No responses, no discussion — just listening. One person jots recurring words on scratch paper as they listen.
-
+### Group discusses the top 3 themes to put forward - 5 min
 ### Harvest — 5 min
 
-As a group, call out: what themes came up more than once? Scribe writes them on the newsprint under **Themes**. Then the second question — *"what did someone say that was unlike everything else?"* — under **Dissents**. Keep both lists short; the cards are the real data.
+Each group pick the three ideas or themes that resonated the most.
+Write on post it, share one theme with the full group.
+
+### Group present their top 3 ideas at front - 10 min
+
+As a group, call out: what themes came up more than once? Scribe writes them on the newsprint under **Themes**. 
+Then the second question — *"what did someone say that was unlike everything else?"* — under **Dissents**. 
+Keep both lists short; the cards are the real data.
+
+### Give people sticker dots - 5 min
+Let them vote on what they liked.
+
 
 ---
 
