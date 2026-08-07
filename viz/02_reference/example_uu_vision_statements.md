@@ -68,4 +68,5 @@ Five words. The shortest effective vision statement on record in the working mat
 
 ---
 
-For deliberately *unusual* vision statements meant to stretch the COM's sense of what's possible, see [`creative_vision_seeds.md`](creative_vision_seeds.md).
+- For the **full corpus sorted by length**, with word counts, real congregational *mission* statements from the UUA booklet, and what the collection shows in aggregate: [`vision_statement_corpus.md`](vision_statement_corpus.md).
+- For deliberately *unusual* vision statements meant to stretch the COM's sense of what's possible: [`creative_vision_seeds.md`](creative_vision_seeds.md).
